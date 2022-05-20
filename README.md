@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/stevepi/devops%20learning%20project/_apis/build/status/pieterstevens.pipelines-java?branchName=master)](https://dev.azure.com/stevepi/devops%20learning%20project/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
